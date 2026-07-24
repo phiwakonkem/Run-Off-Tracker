@@ -1,8 +1,7 @@
 # Xitus Legacy Portfolio Run-Off Tracker
 
 A dashboard for portfolio managers and actuaries to monitor the financial
-contraction of discontinued insurance books over time, built for the Xitus
-Insurance take-home assignment.
+contraction of discontinued insurance books over time.
 
 ## The problem
 
