@@ -1,1 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
 @import "tailwindcss";
+
+@theme {
+  --color-ink: #12181f;
+  --color-panel: #1b232d;
+  --color-brass: #c9a227;
+  --color-teal: #4fa8a0;
+  --color-clay: #a6614b;
+  --color-parchment: #e8e6e0;
+  --color-muted: #8a8f98;
+
+  --font-display: "Newsreader", serif;
+  --font-body: "Inter", sans-serif;
+  --font-data: "IBM Plex Mono", monospace;
+}
+
+body {
+  font-family: var(--font-body);
+}
