@@ -1,3 +1,14 @@
+import {
+  AreaChart,
+  Area,
+  XAxis,
+  YAxis,
+  CartesianGrid,
+  Tooltip,
+  Legend,
+  ResponsiveContainer,
+} from 'recharts'
+
 function RunoffChart({ data }) {
   return (
     <div className="bg-panel rounded-lg p-5 border border-white/5">
